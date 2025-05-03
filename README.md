@@ -1,4 +1,4 @@
-# Design Patterns Implementation in Python (for Google Colab)
+# Design Patterns Implementation in Python (Google Colab)
 
 This document contains brief explanations and runnable examples of 5 classic design patterns implemented in Python. The examples are designed to be compatible with Google Colab or any standard Python environment.
 
@@ -56,14 +56,3 @@ This document contains brief explanations and runnable examples of 5 classic des
 - Finite state machines
 - UI controls
 - Workflow engines
-
----
-
-## 💡 Notes
-
-- All examples are written in Python 3 and designed for educational clarity.
-- These implementations can be directly copied into a Jupyter Notebook or Google Colab for testing.
-
-Feel free to extend each example with more real-world context or additional features (undo, redo, logging, etc.).
-
----
