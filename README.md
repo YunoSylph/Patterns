@@ -1,6 +1,4 @@
-# Design Patterns Implementation in Python (Google Colab)
-
-This document contains brief explanations and runnable examples of 5 classic design patterns implemented in Python. The examples are designed to be compatible with Google Colab or any standard Python environment.
+# Patterns Implementation in Python (Google Colab)
 
 ## 1. Singleton Pattern
 
